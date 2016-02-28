@@ -1,0 +1,14 @@
+{
+    "name": "taw/test",
+    "description": "laravel test demo",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dengtao",
+            "email": "szdengtao@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
